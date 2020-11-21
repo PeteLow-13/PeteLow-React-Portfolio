@@ -2,12 +2,13 @@ import React from 'react';
 import Container from '../components/Container';
 import Row from '../components/Row';
 import Col from '../components/Col';
+// import { Component } from 'react';
 
 function Contact () {
     return (
        <Container>
            <Row>
-               <Col size='col-12'>
+               <Col size='col-6'>
                     <div class="card border-info mb-3">
                         <img src="assets/IMG_0221.jpeg" class="card-img-top" alt="Keyboard and Flip phone"/>
                         <div class="card-header">
@@ -21,8 +22,8 @@ function Contact () {
                             </ul>
                         <div class="card-body">
                             
-                        <a href="https://www.linkedin.com/in/peter-low-312a88183" class="card-link" target="blank">LinkedIn</a>
-                        <a href="https://github.com/PeteLow-13" class="card-link" target="blank">Git Hub</a>
+                            <a href="https://www.linkedin.com/in/peter-low-312a88183" class="card-link" target="blank">LinkedIn</a>
+                            <a href="https://github.com/PeteLow-13" class="card-link" target="blank">Github</a>
                         </div>
                     </div>
                </Col>

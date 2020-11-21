@@ -1,0 +1,17 @@
+img {
+    max-width: 50px;
+}
+
+
+.card {
+    background-color: rgba(4, 110, 96, 0.301);
+    text-shadow: 1px 1px 1px hotpink;
+    max-width: 45%;
+    margin: 5px;
+    border-style: solid;
+    border-color: hotpink;
+    border-width: 1px;
+    border-radius: 10px;
+    box-shadow: 10px 2px 2px rgba(0, 0, 0, 0.527);
+    padding: 10px;
+}
