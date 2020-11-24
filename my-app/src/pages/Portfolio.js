@@ -3,6 +3,8 @@ import Container from '../components/Container';
 import { Component } from 'react';
 import ProjectCard from '../components/Project Card';
 import portfolioContent from '../portfolioContent.json';
+import Col from '../components/Col';
+import Row from '../components/Row';
 
 
 class Portfolio extends Component {
@@ -14,16 +16,20 @@ class Portfolio extends Component {
     render(){
         return(
             <Container>
-                {this.state.portfolioContent.map(portfolioItem => (
-                <ProjectCard
-                id={portfolioItem.id}
-                key={portfolioItem.id}
-                title={portfolioItem.title}
-                image={portfolioItem.image}
-                description={portfolioItem.description}
-                link={portfolioItem.link} 
-                />
-                ))}
+                <Row>
+                    <Col size='md-12'>
+                        {this.state.portfolioContent.map(portfolioItem => (
+                        <ProjectCard
+                        id={portfolioItem.id}
+                        key={portfolioItem.id}
+                        title={portfolioItem.title}
+                        image={portfolioItem.image}
+                        description={portfolioItem.description}
+                        link={portfolioItem.link} 
+                        />
+                        ))}
+                    </Col>
+                </Row>
              </Container>
     );
     }

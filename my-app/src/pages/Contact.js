@@ -8,7 +8,7 @@ function Contact () {
     return (
        <Container>
            <Row>
-               <Col size='col-6'>
+               <Col size='md-6'>
                     <div class="card border-info mb-3">
                         <img src="assets/IMG_0221.jpeg" class="card-img-top" alt="Keyboard and Flip phone"/>
                         <div class="card-header">
@@ -19,6 +19,8 @@ function Contact () {
                                 <li class="list-group-item">Call: (206)-617-8254</li>
                                 <li class="list-group-item">Email: pedritolow@gmail.com</li>
                                 <li class="list-group-item">Connect on Social:</li>
+                                <a href="https://www.linkedin.com/in/peter-low-312a88183" class="card-link" target="blank">LinkedIn</a>
+                            <a href="https://github.com/PeteLow-13" class="card-link" target="blank">Github</a>
                             </ul>
                         <div class="card-body">
                             
