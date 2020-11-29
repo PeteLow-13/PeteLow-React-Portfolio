@@ -9,7 +9,7 @@ function Contact () {
        <Container>
            <Row>
                <Col size='md-6'>
-                    <div class="card border-info mb-3">
+                    <div class="card">
                         <img src="assets/IMG_0221.jpeg" class="card-img-top" alt="Keyboard and Flip phone"/>
                         <div class="card-header">
                             <h2 class="card-title">Contact Me</h2>

@@ -7,7 +7,6 @@ import './style.css';
 function Header () {
     return (
         <Container>
-            <h1>Pete Low</h1>
             <Navbar />
         </Container>
         
