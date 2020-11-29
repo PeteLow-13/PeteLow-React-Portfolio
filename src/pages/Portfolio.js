@@ -17,7 +17,7 @@ class Portfolio extends Component {
         return(
             <Container>
                 <Row>
-                    <Col size='md-12'>
+                    <Col size='md-6'>
                         {this.state.portfolioContent.map(portfolioItem => (
                         <ProjectCard
                         id={portfolioItem.id}
