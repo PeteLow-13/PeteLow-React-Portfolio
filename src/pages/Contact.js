@@ -9,7 +9,7 @@ function Contact () {
            <Row>
                <Col size="md-6">
                     <div className="card">
-                        <img src="assets/IMG_0221.jpeg" className="card-img-top" alt="Keyboard and Flip phone"/>
+                        <img src={"assets/IMG_0221.jpeg"} className="card-img-top" alt="Keyboard and Flip phone"/>
                         <div class="card-header">
                             <h2 className="card-title">Contact Me</h2>
                             <p className="card-text">I look forward to connecting with you.</p>
