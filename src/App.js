@@ -15,7 +15,7 @@ function App() {
         <Wrapper>   
           <Header />
             <Route exact path='/' component={HomePage} />
-            <Route exact path='/HomePage' component={HomePage} />
+            {/* <Route exact path='/HomePage' component={HomePage} /> */}
             <Route exact path='/Contact' component={Contact} />
             <Route exact path ='/Portfolio' component={Portfolio} />
           <Footer />

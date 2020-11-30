@@ -2,6 +2,8 @@ import React from 'react';
 import Container from '../components/Container';
 import Row from '../components/Row';
 import Col from '../components/Col';
+import IMG_0221 from '../assets/IMG_0221.jpeg';
+import './contact.css'
 
 function Contact () {
     return (
@@ -9,7 +11,7 @@ function Contact () {
            <Row>
                <Col size="md-6">
                     <div className="card">
-                        <img src={"assets/IMG_0221.jpeg"} className="card-img-top" alt="Keyboard and Flip phone"/>
+                        <img src={ IMG_0221 } className="card-img-top" alt="Keyboard and Flip phone"/>
                         <div class="card-header">
                             <h2 className="card-title">Contact Me</h2>
                             <p className="card-text">I look forward to connecting with you.</p>

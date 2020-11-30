@@ -2,7 +2,7 @@ import React from 'react';
 import Container from '../components/Container';
 import Row from '../components/Row';
 import Col from '../components/Col';
-
+import IMG_0670 from '../assets/IMG_0670.jpeg';
 function HomePage(){
     return(
         <Container>
@@ -13,7 +13,7 @@ function HomePage(){
             </Row>
             <Row>
                 <Col size='md-6'>
-                    <img src={'../../assets/IMG_0670.jpeg'} class="img-fluid" alt='Pete Low'/>  
+                    <img src={ IMG_0670 } class="img-fluid" alt='Pete Low'/>  
                 </Col>
                 <Col size='md-6'>
                     <p>I'm new to web-development having spent the majority of my career in the restaurant industry. My goal is to help your web operations run smoother and look better. I bring an eye on operations larger than that of your average developer. Your user experience is more important than anything else. </p>
