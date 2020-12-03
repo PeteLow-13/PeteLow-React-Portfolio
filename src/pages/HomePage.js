@@ -3,6 +3,7 @@ import Container from '../components/Container';
 import Row from '../components/Row';
 import Col from '../components/Col';
 import IMG_0670 from '../assets/IMG_0670.jpeg';
+
 function HomePage(){
     return(
         <Container>
