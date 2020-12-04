@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter , Route } from "react-router-dom";
 import HeaderNav from './components/HeaderNav/index.js';
 import Wrapper from "./components/Wrapper";
 import HomePage from './pages/HomePage.js';
@@ -11,7 +11,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <Router>
+      <HashRouter basename='/'>
         <Wrapper>   
           <HeaderNav />
             <Route exact path='/' component={HomePage} />
@@ -19,7 +19,7 @@ function App() {
             <Route exact path ='/Portfolio' component={Portfolio} />
           <Footer />
         </Wrapper>
-      </Router> 
+      </HashRouter> 
     </div>
     
   );
