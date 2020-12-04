@@ -1,5 +1,5 @@
 img {
-    max-width: 50%;
+    max-width: 100%;
     border-style: solid;
     border-width: 1px;
     border-color: black;
@@ -8,8 +8,9 @@ img {
 
 
 .card {
+    text-align: center;
     background-color: rgba(127, 208, 255, 0.205);
-    text-shadow: .5px .5px .5px green;
+    text-shadow: .5px .5px .5px rgb(165, 241, 130);
     margin: 5px;
     border-style: solid;
     border-color: black;
