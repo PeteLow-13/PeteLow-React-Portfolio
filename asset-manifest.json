@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/PeteLow-React-Portfolio/static/css/main.8c9133fe.chunk.css",
-    "main.js": "/PeteLow-React-Portfolio/static/js/main.e256f55b.chunk.js",
-    "main.js.map": "/PeteLow-React-Portfolio/static/js/main.e256f55b.chunk.js.map",
-    "runtime-main.js": "/PeteLow-React-Portfolio/static/js/runtime-main.7491b46b.js",
-    "runtime-main.js.map": "/PeteLow-React-Portfolio/static/js/runtime-main.7491b46b.js.map",
-    "static/js/2.1983fa63.chunk.js": "/PeteLow-React-Portfolio/static/js/2.1983fa63.chunk.js",
-    "static/js/2.1983fa63.chunk.js.map": "/PeteLow-React-Portfolio/static/js/2.1983fa63.chunk.js.map",
-    "static/js/3.65a953d0.chunk.js": "/PeteLow-React-Portfolio/static/js/3.65a953d0.chunk.js",
-    "static/js/3.65a953d0.chunk.js.map": "/PeteLow-React-Portfolio/static/js/3.65a953d0.chunk.js.map",
+    "main.css": "/PeteLow-React-Portfolio/static/css/main.0801c016.chunk.css",
+    "main.js": "/PeteLow-React-Portfolio/static/js/main.ccda6caa.chunk.js",
+    "main.js.map": "/PeteLow-React-Portfolio/static/js/main.ccda6caa.chunk.js.map",
+    "runtime-main.js": "/PeteLow-React-Portfolio/static/js/runtime-main.80f22a26.js",
+    "runtime-main.js.map": "/PeteLow-React-Portfolio/static/js/runtime-main.80f22a26.js.map",
+    "static/js/2.92230ccd.chunk.js": "/PeteLow-React-Portfolio/static/js/2.92230ccd.chunk.js",
+    "static/js/2.92230ccd.chunk.js.map": "/PeteLow-React-Portfolio/static/js/2.92230ccd.chunk.js.map",
+    "static/js/3.95b25231.chunk.js": "/PeteLow-React-Portfolio/static/js/3.95b25231.chunk.js",
+    "static/js/3.95b25231.chunk.js.map": "/PeteLow-React-Portfolio/static/js/3.95b25231.chunk.js.map",
     "index.html": "/PeteLow-React-Portfolio/index.html",
-    "static/css/main.8c9133fe.chunk.css.map": "/PeteLow-React-Portfolio/static/css/main.8c9133fe.chunk.css.map",
-    "static/js/2.1983fa63.chunk.js.LICENSE.txt": "/PeteLow-React-Portfolio/static/js/2.1983fa63.chunk.js.LICENSE.txt",
+    "static/css/main.0801c016.chunk.css.map": "/PeteLow-React-Portfolio/static/css/main.0801c016.chunk.css.map",
+    "static/js/2.92230ccd.chunk.js.LICENSE.txt": "/PeteLow-React-Portfolio/static/js/2.92230ccd.chunk.js.LICENSE.txt",
+    "static/media/IMG_0221.35c6deb8.jpeg": "/PeteLow-React-Portfolio/static/media/IMG_0221.35c6deb8.jpeg",
+    "static/media/IMG_0670.3b5ee20b.jpeg": "/PeteLow-React-Portfolio/static/media/IMG_0670.3b5ee20b.jpeg",
+    "static/media/burgerApp.fdf4320d.png": "/PeteLow-React-Portfolio/static/media/burgerApp.fdf4320d.png",
+    "static/media/codeQuiz.2f5e5533.png": "/PeteLow-React-Portfolio/static/media/codeQuiz.2f5e5533.png",
+    "static/media/scheduler.164b7048.png": "/PeteLow-React-Portfolio/static/media/scheduler.164b7048.png",
+    "static/media/sk8tool.b54399b9.png": "/PeteLow-React-Portfolio/static/media/sk8tool.b54399b9.png",
+    "static/media/skatefinder.0e383c45.png": "/PeteLow-React-Portfolio/static/media/skatefinder.0e383c45.png",
+    "static/media/weatherdashboard.e129aaac.png": "/PeteLow-React-Portfolio/static/media/weatherdashboard.e129aaac.png",
     "static/media/index.css": "/PeteLow-React-Portfolio/static/media/westBeachHill.73909a3e.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7491b46b.js",
-    "static/js/2.1983fa63.chunk.js",
-    "static/css/main.8c9133fe.chunk.css",
-    "static/js/main.e256f55b.chunk.js"
+    "static/js/runtime-main.80f22a26.js",
+    "static/js/2.92230ccd.chunk.js",
+    "static/css/main.0801c016.chunk.css",
+    "static/js/main.ccda6caa.chunk.js"
   ]
 }
