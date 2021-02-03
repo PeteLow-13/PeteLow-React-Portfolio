@@ -1,11 +1,15 @@
 # PeteLow-React-Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## Description
+![homepage](./src/assets/screenshot1.png)
+![portfoliopage](./src/assets/screenshot2.png)
 
 My portfolio updated with React
 ## Table of Contents
 - [Languages](#languages)
+- [Repository](#repository)
 - [Questions](#questions)
+
 
 My portfolio updated with React
 
