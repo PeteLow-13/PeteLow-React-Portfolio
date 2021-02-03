@@ -6,7 +6,7 @@ My portfolio updated with React
 ![homepage](./src/assets/screenshot1.png)
 ![portfoliopage](./src/assets/screenshot2.png)
 
-My portfolio updated with React
+
 ## Table of Contents
 - [Languages](#languages)
 - [Deployed](#deployed)
