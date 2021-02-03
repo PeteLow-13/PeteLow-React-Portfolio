@@ -4,7 +4,8 @@
 
 My portfolio updated with React
 ![homepage](./src/assets/screenshot1.png)
-![portfoliopage](./src/assets/screenshot2.png)
+![contactpage](./src/assets/screenshot2.png)
+![portfoliopage](./src/assets/screenshot3.png)
 
 
 ## Table of Contents
