@@ -1,6 +1,8 @@
 .container {
-    background-color: rgba(127, 208, 255, 0.205);
-    text-shadow: .5px .5px .5px rgb(165, 241, 130);
+    background-color: rgba(127, 208, 255, 0.372);
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px black;
+    font-size: 19px;
     font-weight: bold;
     height: auto;
     width: 100%;
